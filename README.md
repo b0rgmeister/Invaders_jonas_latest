@@ -1,21 +1,8 @@
-# Electron boilerplate + Phaser tutorial
+# Work Expierience Space Invaders
 
-This repository is a merge of two different repositories :
-
-- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate.git)
-- Phaser html5 game library [making your first game tutorial](http://phaser.io/tutorials/making-your-first-phaser-game)
 
  ```
-git clone https://github.com/Fax/electron-phaser
-cd electron-phaser
+git clone https://github.com/b0rgmeister/Invaders_jonas_latest
 npm install
 npm start
-```
-
-# Usages
-
-Follow the README on the repository https://github.com/szwacz/electron-boilerplate.git. 
-
-# License
-
-MIT License
+``
